@@ -1,0 +1,38 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# typescript
+*.tsbuildinfo
+
+# local data store (fallback when no KV configured)
+/data/*.json
+!/data/.gitkeep
+
+.vercel
+.env*
+
+# 个人部署笔记（含真实密钥，不应公开）
+/部署指南.md
