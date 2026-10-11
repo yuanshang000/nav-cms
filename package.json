@@ -1,13 +1,38 @@
 {
   "name": "nav-cms",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "description": "一个美观、快速、可自定义的导航站点 —— 前台分类导航 + 后台可视化内容管理。支持日夜主题、动态极光背景、实时搜索，一键部署到 Vercel。",
+  "keywords": [
+    "navigation",
+    "nav",
+    "cms",
+    "nextjs",
+    "vercel",
+    "书签导航",
+    "网址导航",
+    "导航站",
+    "react",
+    "tailwindcss"
+  ],
+  "homepage": "https://nav-cms.vercel.app",
+  "bugs": {
+    "url": "https://github.com/yuanshang000/nav-cms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanshang000/nav-cms.git"
+  },
+  "license": "MIT",
+  "author": "源殇",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "seed": "node scripts/seed.mjs"
+    "lint": "next lint"
   },
   "dependencies": {
     "framer-motion": "^11.15.0",

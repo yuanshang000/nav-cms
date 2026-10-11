@@ -4,7 +4,7 @@
 
 **一个美观、快速、可自定义的导航站点 —— 前台分类导航 + 后台可视化内容管理**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/1634182269/nav-cms)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yuanshang000/nav-cms)
 [![Live Demo](https://img.shields.io/badge/在线演示-nav--cms.vercel.app-6366f1?style=for-the-badge)](https://nav-cms.vercel.app)
 
 [在线体验](https://nav-cms.vercel.app) · [项目截图](#-页面截图) · [部署指南](#-部署指南) · [功能特性](#-功能特性)
@@ -135,7 +135,7 @@
 
 ### 方式一 · Vercel 一键部署（推荐）
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/1634182269/nav-cms)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yuanshang000/nav-cms)
 
 点击上方按钮即可自动部署。部署完成后需要做两件事：
 
@@ -160,7 +160,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/1634182269/nav-cms.git
+git clone https://github.com/yuanshang000/nav-cms.git
 cd nav-cms
 
 # 2. 安装依赖
